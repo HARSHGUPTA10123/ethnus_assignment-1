@@ -1,1 +1,1 @@
-# ethnus_assignment-1
+# AssignmentEthnus1
